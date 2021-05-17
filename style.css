@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/*
+יצירת רשימת צבעים במחלקה חלקית
+כלומר נצהיר על המחלקה הנוכחית כמחלקה חלקית על ידי הסימן _
+ונייבא אותה בעזרת המילה השמורה @use
+*/
+body {
+  direction: rtl;
+}
+
+.designButton {
+  background-color: red;
+}
+
+.designA {
+  color: orange;
+}
+
+/*# sourceMappingURL=style.css.map */

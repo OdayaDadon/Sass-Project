@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/*
+יצירת רשימת צבעים במחלקה חלקית
+כלומר נצהיר על המחלקה הנוכחית כמחלקה חלקית על ידי הסימן _
+ונייבא אותה בעזרת המילה השמורה @use
+*/
+.design_name, .design_phone {
+  background-color: yellow;
+  color: purple;
+}
+
+/*# sourceMappingURL=style2.css.map */

@@ -1,0 +1,15 @@
+@use 'colors';
+
+body{
+    direction: rtl;
+}
+
+//עיצוב הכפתור
+.designButton{
+    background-color: colors.$red;
+}
+
+//עיצוב הלינק
+.designA{
+    color: colors.$orange;
+}

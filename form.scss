@@ -1,0 +1,13 @@
+@use 'colors';
+
+//הגדרה כללית
+//ואפשר לרשת מזה ולהשתמש בזה בכל מקום שרוצים
+%all-lbl{
+    background-color: colors.$yellow;
+    color: colors.$purple;
+}
+
+//דוגמא לירושה
+.design_name, .design_phone{
+    @extend %all-lbl;
+}
